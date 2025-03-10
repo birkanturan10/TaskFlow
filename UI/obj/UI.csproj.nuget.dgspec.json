@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\birka\\source\\repos\\TaskFlow\\UI\\UI.csproj": {}
+    "C:\\Users\\birka\\Desktop\\TaskFlow\\UI\\UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\birka\\source\\repos\\TaskFlow\\UI\\UI.csproj": {
+    "C:\\Users\\birka\\Desktop\\TaskFlow\\UI\\UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\birka\\source\\repos\\TaskFlow\\UI\\UI.csproj",
+        "projectUniqueName": "C:\\Users\\birka\\Desktop\\TaskFlow\\UI\\UI.csproj",
         "projectName": "UI",
-        "projectPath": "C:\\Users\\birka\\source\\repos\\TaskFlow\\UI\\UI.csproj",
+        "projectPath": "C:\\Users\\birka\\Desktop\\TaskFlow\\UI\\UI.csproj",
         "packagesPath": "C:\\Users\\birka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\birka\\source\\repos\\TaskFlow\\UI\\obj\\",
+        "outputPath": "C:\\Users\\birka\\Desktop\\TaskFlow\\UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
