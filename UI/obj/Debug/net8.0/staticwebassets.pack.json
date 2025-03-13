@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\UI.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\birka\\Desktop\\TaskFlow\\UI\\wwwroot\\HomeSheet.css",
+      "PackagePath": "staticwebassets\\HomeSheet.css"
+    },
+    {
       "Id": "C:\\Users\\birka\\Desktop\\TaskFlow\\UI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
