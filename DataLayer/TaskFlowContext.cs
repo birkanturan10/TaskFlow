@@ -1,21 +1,28 @@
-﻿using EntityLayer;
+﻿using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
+using EntityLayer;
 
 namespace DataLayer
 {
-    public class TaskFlowContext:DbContext
+    public class TaskFlowContext : DbContext
     {
+        protected TaskFlowContext()
+        {
+        }
+
+        public TaskFlowContext(DbContextOptions options) : base(options)
+        {
+        }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            var builder = new ConfigurationBuilder().SetBasePath(Directory.GetCurrentDirectory()).AddJsonFile("appsettings.json");
-
-            var configuration = builder.Build();
-            optionsBuilder.UseSqlServer(configuration["ConnectionStrings:TaskFlowConnection"]);
+            base.OnConfiguring(optionsBuilder);
+            optionsBuilder.UseSqlServer("Server=LAPTOP-G13T04V9\\SQLEXPRESS; Database=TaskFlowDB; Trusted_Connection=true;TrustServerCertificate=True;");
         }
 
         public DbSet<EntityLayer.Task> Tasks { get; set; }

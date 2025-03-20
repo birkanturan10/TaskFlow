@@ -1,7 +1,13 @@
+using DataLayer;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<TaskFlowContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("TaskFlowConnection")));
 
 var app = builder.Build();
 

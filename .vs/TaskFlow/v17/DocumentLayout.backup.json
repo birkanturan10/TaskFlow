@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\birka\\Desktop\\TaskFlow\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F0AE93BE-2F0E-4415-9A08-5C5CBB0BABD6}|DataLayer\\DataLayer.csproj|c:\\users\\birka\\desktop\\taskflow\\datalayer\\taskflowcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0AE93BE-2F0E-4415-9A08-5C5CBB0BABD6}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\taskflowcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA1CFF0-D7A8-4EA9-9A5A-E588A728C877}|UI\\UI.csproj|c:\\users\\birka\\desktop\\taskflow\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA1CFF0-D7A8-4EA9-9A5A-E588A728C877}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5EA1CFF0-D7A8-4EA9-9A5A-E588A728C877}|UI\\UI.csproj|c:\\users\\birka\\desktop\\taskflow\\ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EA1CFF0-D7A8-4EA9-9A5A-E588A728C877}|UI\\UI.csproj|solutionrelative:ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E28811E-7F64-4814-A116-AA48DF9A7689}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\birka\\desktop\\taskflow\\businesslayer\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E28811E-7F64-4814-A116-AA48DF9A7689}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EA1CFF0-D7A8-4EA9-9A5A-E588A728C877}|UI\\UI.csproj|c:\\users\\birka\\desktop\\taskflow\\ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EA1CFF0-D7A8-4EA9-9A5A-E588A728C877}|UI\\UI.csproj|solutionrelative:ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B01B3FA-4FFF-469B-BD44-D14B619BFCC3}|EntityLayer\\EntityLayer.csproj|c:\\users\\birka\\desktop\\taskflow\\entitylayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B01B3FA-4FFF-469B-BD44-D14B619BFCC3}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E093A52C-6E1C-4325-8A31-CB387C5CC7C8}|DataLayer\\DataLayer.csproj|c:\\users\\birka\\desktop\\taskflow\\datalayer\\taskflowcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E093A52C-6E1C-4325-8A31-CB387C5CC7C8}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\taskflowcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EA1CFF0-D7A8-4EA9-9A5A-E588A728C877}|UI\\UI.csproj|c:\\users\\birka\\desktop\\taskflow\\ui\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5EA1CFF0-D7A8-4EA9-9A5A-E588A728C877}|UI\\UI.csproj|solutionrelative:ui\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EA1CFF0-D7A8-4EA9-9A5A-E588A728C877}|UI\\UI.csproj|c:\\users\\birka\\desktop\\taskflow\\ui\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5EA1CFF0-D7A8-4EA9-9A5A-E588A728C877}|UI\\UI.csproj|solutionrelative:ui\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F0AE93BE-2F0E-4415-9A08-5C5CBB0BABD6}|DataLayer\\DataLayer.csproj|c:\\users\\birka\\desktop\\taskflow\\datalayer\\migrations\\20250320121124_taskflow1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0AE93BE-2F0E-4415-9A08-5C5CBB0BABD6}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\20250320121124_taskflow1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SignUpViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\TaskFlow\\BusinessLayer\\SignUpViewModel.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\SignUpViewModel.cs",
-              "ToolTip": "C:\\Users\\birka\\Desktop\\TaskFlow\\BusinessLayer\\SignUpViewModel.cs",
-              "RelativeToolTip": "BusinessLayer\\SignUpViewModel.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA8AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:47:41.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaskFlowContext.cs",
-              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\TaskFlow\\DataLayer\\TaskFlowContext.cs",
-              "RelativeDocumentMoniker": "DataLayer\\TaskFlowContext.cs",
-              "ToolTip": "C:\\Users\\birka\\Desktop\\TaskFlow\\DataLayer\\TaskFlowContext.cs",
-              "RelativeToolTip": "DataLayer\\TaskFlowContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:45:57.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\TaskFlow\\EntityLayer\\User.cs",
-              "RelativeDocumentMoniker": "EntityLayer\\User.cs",
-              "ToolTip": "C:\\Users\\birka\\Desktop\\TaskFlow\\EntityLayer\\User.cs",
-              "RelativeToolTip": "EntityLayer\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:44:07.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SignUp.cshtml",
-              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\TaskFlow\\UI\\Views\\Home\\SignUp.cshtml",
-              "RelativeDocumentMoniker": "UI\\Views\\Home\\SignUp.cshtml",
-              "ToolTip": "C:\\Users\\birka\\Desktop\\TaskFlow\\UI\\Views\\Home\\SignUp.cshtml",
-              "RelativeToolTip": "UI\\Views\\Home\\SignUp.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswB0AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T13:46:56.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\TaskFlow\\UI\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "UI\\Views\\Home\\Login.cshtml",
-              "ToolTip": "C:\\Users\\birka\\Desktop\\TaskFlow\\UI\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "UI\\Views\\Home\\Login.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswAsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T13:45:35.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\birka\\Desktop\\TaskFlow\\UI\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\birka\\Desktop\\TaskFlow\\UI\\Controllers\\HomeController.cs",
               "RelativeToolTip": "UI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T13:43:44.367Z",
+              "WhenOpened": "2025-03-20T12:13:55.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250320121124_TaskFlow1.cs",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\TaskFlow\\DataLayer\\Migrations\\20250320121124_TaskFlow1.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20250320121124_TaskFlow1.cs",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\TaskFlow\\DataLayer\\Migrations\\20250320121124_TaskFlow1.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20250320121124_TaskFlow1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:11:25.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\TaskFlow\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\TaskFlow\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:07:56.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\TaskFlow\\UI\\appsettings.json",
+              "RelativeDocumentMoniker": "UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\TaskFlow\\UI\\appsettings.json",
+              "RelativeToolTip": "UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T12:07:36.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskFlowContext.cs",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\TaskFlow\\DataLayer\\TaskFlowContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\TaskFlowContext.cs",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\TaskFlow\\DataLayer\\TaskFlowContext.cs",
+              "RelativeToolTip": "DataLayer\\TaskFlowContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:55:41.166Z",
               "EditorCaption": ""
             }
           ]

@@ -17,7 +17,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\EntityLayer\EntityLayer.csproj" />
-    <ProjectReference Include="..\UI\UI.csproj" />
   </ItemGroup>
 
 </Project>
